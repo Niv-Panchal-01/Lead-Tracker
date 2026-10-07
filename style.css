@@ -29,6 +29,7 @@ button {
     cursor: pointer;
     border: 1px solid #5f9341;
     font-weight: bolder;
+    margin-right: 0px;
 }
 
 ul {
@@ -48,4 +49,8 @@ a {
     color: #5f9341;
     background-color: white;
     margin-right: 40px;
+}
+
+#tab-btn{
+    width: 120px;
 }
